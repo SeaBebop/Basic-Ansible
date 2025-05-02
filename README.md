@@ -11,6 +11,7 @@ I'm learning how to:
 - Write a basic playbook
 - Use localhost as the target
 
+I will create more examples in the future to better understand it.
 ## 🐳 Setup
 
 I'm using Docker to run Ansible:
